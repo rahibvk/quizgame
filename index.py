@@ -117,5 +117,7 @@ if answer10 == 'd':
     score += 1
     
 
-print("Your score is:", score)
-print("out of 10")
+print("Your score is:"+ str(score) + "out of 10")
+
+
+
